@@ -19,7 +19,7 @@ All the following projects are owned by my company [@DysnomiaStudio](https://git
 
 [Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
 
-## Github Projects
+# Github Projects
 
 Main projects are below this section :)
 
