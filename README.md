@@ -25,5 +25,5 @@ Main projects are below this section :)
 
 # How to contact me ? How to follow my projects ?
 
-[Porfolio](https://elanis.eu)  
+[Portfolio](https://elanis.eu)  
 [Twitter](https://twitter.com/ElanisGaming)
