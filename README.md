@@ -10,9 +10,6 @@ All the following projects are owned by my company [@DysnomiaStudio](https://git
 
 ## Games
 
-[Galactae: Space Age Dawn](https://galactae.eu): Galactae is an in-brower space game where you manage your own nation: Emperor, CEO or President; lead your nation to conquer other planets. This game is highly axed on gameplay possibility and have its own Lore !  
-*Note:* Still on beta, but there are many updates !
-
 [Extortion](https://store.steampowered.com/app/1299430/Extortion/): You're a computer engineer with a terrible secret. Someone is blackmailing you and now, you have to hack some servers and get secret files for him. Would you success to achieve his missions or would you find him and revenge ?
 
 ## Websites
