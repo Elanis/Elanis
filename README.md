@@ -1,26 +1,43 @@
-Hello ! And welcome to my profile !
+<h1 align="center">Axel "Elanis" Soupé</h1>
+
+<h3 align="center"><a href="https://elanis.eu">Portfolio</a> • <a href="https://blog.dysnomia.studio">Blog</a> • <a href="https://twitter.com/ElanisGaming">Twitter</a></h3>
+
+<hr />
 
 # Who am I ?
 
-I'm Axel a.k.a. Elanis, a young 22 french currently in my fifth year of computer degree ! I'm working in a private company in alternship, but have many other projects !
+### Work & Studies
 
-# Non-Github Projects
+- **Second** year of **Master Degree**
+- Working in **alternship** since **2018** at **Getlink**
+- Founder of [Dysnomia](https://dysnomia.studio), a company which manages and create websites/games.
 
-All the following projects are owned by my company [@DysnomiaStudio](https://github.com/Dysnomia-Studio) ([https://dysnomia.studio](https://dysnomia.studio)).
+### Hobbies
+
+- **Web Developer** mainly using **React** and **.Net 5**
+- **Game Developer**
+- Big fan of **Sonarqube** and everything around code quality and good practices
+- Enthusiastic about **DevOps**, **Rust**, and many other subjects !
+
+<hr />
+
+# Major projects
+*Owned by [@DysnomiaStudio](https://github.com/Dysnomia-Studio) ([https://dysnomia.studio](https://dysnomia.studio))*
 
 ## Games
 
 [Extortion](https://store.steampowered.com/app/1299430/Extortion/): You're a computer engineer with a terrible secret. Someone is blackmailing you and now, you have to hack some servers and get secret files for him. Would you success to achieve his missions or would you find him and revenge ?
 
+[Galactae: Space Age Dawn](https://galactae.eu): Galactae is an in-brower space game where you manage your own nation: Emperor, CEO or President; lead your nation to conquer other planets. This game is highly axed on gameplay possibility and have its own Lore !  
+*Note:* Developement has been paused for the moment
+
 ## Websites
 
 [Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
 
-# Github Projects
+# Minor projects
 
-Main projects are below this section :)
+[Dysnomia.Common.SQL](https://github.com/Dysnomia-Studio/Dysnomia.Common.SQL): A driver agnostic Micro-ORM for .NET Core & .NET 5  
+[L.U.M.E.N.](https://github.com/L-U-M-E-N/lumen-desktop): A simple and modulable personal assistant built on Electron.
 
-# How to contact me ? How to follow my projects ?
-
-[Portfolio](https://elanis.eu)  
-[Twitter](https://twitter.com/ElanisGaming)
+And many others in my repositories !
