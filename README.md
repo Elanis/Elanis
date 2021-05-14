@@ -35,6 +35,8 @@
 
 [Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
 
+[Achieve.games](https://achieve.games): Do you want a random game achievement, a random game, stats about how much you got achievements ? That website is here for you !
+
 # Minor projects
 
 [Dysnomia.Common.SQL](https://github.com/Dysnomia-Studio/Dysnomia.Common.SQL): A driver agnostic Micro-ORM for .NET Core & .NET 5  
