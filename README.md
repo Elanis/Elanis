@@ -8,13 +8,13 @@
 
 ### Work & Studies
 
-- **Second** year of **Master Degree**
-- Working in **alternship** since **2018** at **Getlink**
+- Got a computing master degree in 2021
 - Founder of [Dysnomia](https://dysnomia.studio), a company which manages and create websites/games.
+- Freelance at **Getlink**
 
 ### Hobbies
 
-- **Web Developer** mainly using **React** and **.Net 5**
+- **Web Developer** mainly using **React** and **.NET**
 - **Game Developer**
 - Big fan of **Sonarqube** and everything around code quality and good practices
 - Enthusiastic about **DevOps**, **Rust**, and many other subjects !
