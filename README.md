@@ -8,9 +8,9 @@
 
 ### Work & Studies
 
-- Got a computing master degree in 2021
 - Founder of [Dysnomia](https://dysnomia.studio), a company which manages and create websites/games.
 - Freelance at **Getlink**
+- Computer science master degree in 2021
 
 ### Hobbies
 
