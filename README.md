@@ -12,7 +12,7 @@
 - Freelance at **Getlink**
 - Computer science master degree in 2021
 
-### Hobbies
+### Techs
 
 - **Web Developer** mainly using **React** and **.NET**
 - **Game Developer**
