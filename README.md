@@ -21,6 +21,8 @@
 
 <hr />
 
+# Projects
+
 ## Games
 
 [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/): Alchemistry, it's a casual puzzle game made around the craft and merge of elements.  
