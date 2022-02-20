@@ -41,8 +41,8 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 ## Libraries
 
-[canvas2d-wrapper](https://github.com/Dysnomia-Studio/canvas2d-wrapper): A React Wrapper to use HTML5 canvas with mouse move and zoom abilities.
-[Dysnomia.Common.BlizzardWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.BlizzardWebAPI): A C# library to easily get data from Blizzard Web API.
+[canvas2d-wrapper](https://github.com/Dysnomia-Studio/canvas2d-wrapper): A React Wrapper to use HTML5 canvas with mouse move and zoom abilities.  
+[Dysnomia.Common.BlizzardWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.BlizzardWebAPI): A C# library to easily get data from Blizzard Web API.  
 [Dysnomia.Common.SQL](https://github.com/Dysnomia-Studio/Dysnomia.Common.SQL): A driver agnostic Micro-ORM for .NET Core & .NET 5  
 [Dysnomia.Common.SteamWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.SteamWebAPI): A C# library to easily get data from Steam Web API  
 
