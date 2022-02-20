@@ -22,7 +22,6 @@
 <hr />
 
 # Major projects
-*Owned by [@DysnomiaStudio](https://github.com/Dysnomia-Studio) ([https://dysnomia.studio](https://dysnomia.studio))*
 
 ## Games
 
@@ -45,6 +44,7 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 [Dysnomia.Common.SQL](https://github.com/Dysnomia-Studio/Dysnomia.Common.SQL): A driver agnostic Micro-ORM for .NET Core & .NET 5  
 [Dysnomia.Common.SteamWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.SteamWebAPI): A C# library to easily get data from Steam Web API  
 [L.U.M.E.N.](https://github.com/L-U-M-E-N/lumen-desktop): A simple and modulable personal assistant built on Electron.  
+[translatool](https://github.com/Dysnomia-Studio/translatool): A cross-platform GUI to easily translate your local projects.  
 ["Web to Desktop" framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.  
 
 And many others in my repositories !
