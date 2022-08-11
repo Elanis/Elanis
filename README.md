@@ -54,8 +54,8 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 ## Game mods
 
-[EvolutionAddonPack](https://github.com/williamdefly/Evolutionaddonpack): **ARCHIVED** One of the biggest Stargate mod in any game. Based on the popular Garry's Mod addon "Carter Addon Pack" with more features. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=515981131)
-[Scifi-pack](https://github.com/Elanis/SciFi-Pack-Addon-Gamemode): **ARCHIVED** A Garry's Mod addon/gamemod about many science fiction universes
+[EvolutionAddonPack](https://github.com/williamdefly/Evolutionaddonpack): **ARCHIVED** One of the biggest Stargate mod in any game. Based on the popular Garry's Mod addon "Carter Addon Pack" with more features. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=515981131)  
+[Scifi-pack](https://github.com/Elanis/SciFi-Pack-Addon-Gamemode): **ARCHIVED** A Garry's Mod addon/gamemod about many science fiction universes  
 [GmodAntiSurf](https://github.com/TeamCookiePixel/GmodAntiSurf): A simple and optimized (lag-free) anti propsurf on Garry's Mod.
 
 And many others in my repositories/organizations !
