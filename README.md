@@ -52,6 +52,11 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 [translatool](https://github.com/Dysnomia-Studio/translatool): A cross-platform GUI to easily translate your local projects.  
 ["Web to Desktop" framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.  
 
+## CLIs
+
+[domain-checker](https://github.com/Elanis/domain-checker): Check if a domain name list is available or not, and their expiration date using ip2whois
+[dmarc-parser](https://github.com/Dysnomia-Studio/dmarc-parser): A simple job that query, parse and save to database dmarc aggregate reports
+
 ## Game mods
 
 [EvolutionAddonPack](https://github.com/williamdefly/Evolutionaddonpack): **ARCHIVED** One of the biggest Stargate mod in any game. Based on the popular Garry's Mod addon "Carter Addon Pack" with features and entities added. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=515981131)  
