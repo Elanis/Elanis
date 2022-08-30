@@ -54,8 +54,8 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 ## CLIs
 
-[domain-checker](https://github.com/Elanis/domain-checker): Check if a domain name list is available or not, and their expiration date using ip2whois
-[dmarc-parser](https://github.com/Dysnomia-Studio/dmarc-parser): A simple job that query, parse and save to database dmarc aggregate reports
+[domain-checker](https://github.com/Elanis/domain-checker): Check if a domain name list is available or not, and their expiration date using ip2whois  
+[dmarc-parser](https://github.com/Dysnomia-Studio/dmarc-parser): A simple job that query, parse and save to database dmarc aggregate reports  
 
 ## Game mods
 
