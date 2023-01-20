@@ -33,11 +33,15 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 [Galactae: Space Age Dawn](https://galactae.eu): Galactae is an in-brower space game where you manage your own nation: Emperor, CEO or President; lead your nation to conquer other planets. This game is highly axed on gameplay possibility and have its own Lore !  
 *Note:* Developement has been paused for the moment
 
+[Underwater](https://github.com/Elanis/underwater): A gamejam game to show off how I made most of my game with a simple example.  
+
 ## Websites
 
 [Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
 
-[Achieve.games](https://achieve.games): Do you want a random game achievement, a random game, stats about how much you got achievements ? That website is here for you !
+[Achieve.games](https://achieve.games) ([Database Dump](https://github.com/Dysnomia-Studio/achieve-games-dump)): Do you want a random game achievement, a random game, stats about how much you got achievements ? That website is here for you !
+
+[Downstat.us](https://downstat.us): Check if your favorite service is up or down.
 
 ## Libraries
 
@@ -50,6 +54,9 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 [L.U.M.E.N.](https://github.com/L-U-M-E-N/lumen-desktop): A simple and modulable personal assistant built on Electron.  
 [translatool](https://github.com/Dysnomia-Studio/translatool): A cross-platform GUI to easily translate your local projects.  
+
+## Benchmark
+
 ["Web to Desktop" framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.  
 
 ## CLIs
