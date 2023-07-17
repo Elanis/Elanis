@@ -8,8 +8,9 @@
 
 ### Work & Studies
 
-- Founder of [Dysnomia](https://dysnomia.studio), a company which manages and create websites/games.
+- Founder of [Dysnomia](https://dysnomia.studio), a company which manages most of my projects.
 - Freelance at **Getlink**
+- Part-time teacher at ULCO - Calais, France
 - Computer science master degree in 2021
 
 ### Techs
@@ -30,16 +31,11 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 [Extortion](https://store.steampowered.com/app/1299430/Extortion/): You're a computer engineer with a terrible secret. Someone is blackmailing you and now, you have to hack some servers and get secret files for them. Would you success to achieve his missions or would you find him and revenge ?
 
-[Galactae: Space Age Dawn](https://galactae.eu): Galactae is an in-brower space game where you manage your own nation: Emperor, CEO or President; lead your nation to conquer other planets. This game is highly axed on gameplay possibility and have its own Lore !  
-*Note:* Developement has been paused for the moment
-
-[Underwater](https://github.com/Elanis/underwater): A gamejam game to show off how I made most of my game with a simple example.  
-
 ## Websites
 
-[Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
-
 [Achieve.games](https://achieve.games) ([Database Dump](https://github.com/Dysnomia-Studio/achieve-games-dump)): Do you want a random game achievement, a random game, stats about how much you got achievements ? That website is here for you !
+
+[Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
 
 [Downstat.us](https://downstat.us): Check if your favorite service is up or down.
 
@@ -62,7 +58,6 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 ## CLIs
 
 [domain-checker](https://github.com/Elanis/domain-checker): Check if a domain name list is available or not, and their expiration date using ip2whois  
-[dmarc-parser](https://github.com/Dysnomia-Studio/dmarc-parser): A simple job that query, parse and save to database dmarc aggregate reports  
 
 ## Game mods
 
