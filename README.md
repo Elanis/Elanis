@@ -1,6 +1,6 @@
 <h1 align="center">Axel "Elanis" Soupé</h1>
 
-<h3 align="center"><a href="https://elanis.eu">Portfolio</a> • <a href="https://blog.dysnomia.studio">Blog</a> • <a href="https://twitter.com/Elanis42">Twitter</a></h3>
+<h3 align="center"><a href="https://elanis.eu">🗒️Portfolio</a> • <a href="https://blog.dysnomia.studio">✍Blog</a> • <a href="https://mastodon.gamedev.place/@Elanis">📝Mastodon</a> • <a href="https://twitter.com/Elanis42">🐦 Twitter</a></h3>
 
 <hr />
 
