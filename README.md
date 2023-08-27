@@ -26,6 +26,8 @@
 
 ## Games
 
+[Manufactur'inc](https://store.steampowered.com/app/2146380/Manufactur_inc/): Lead your new company to success in this industry management game. Blueprint and optimize your production; make ethical choices to influence your worker conditions, ecological impact, automation level, and more. Will you create a simple manuFactory, a beneFactory, or a satisFactory?
+
 [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/): Alchemistry, it's a casual puzzle game made around the craft and merge of elements.  
 It has a sandbox and a challenge mode. The first one have no goal except discovering every element the game has, the latter give you objective elements to craft with a group of base elements.
 
