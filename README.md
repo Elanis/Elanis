@@ -8,7 +8,7 @@
 
 ### Work & Studies
 
-- Founder of [Dysnomia](https://dysnomia.studio), a company which manages most of my projects.
+- Behind [Dysnomia](https://dysnomia.studio), the company which manages most of my projects.
 - Freelance at **Getlink**
 - Part-time teacher at ULCO - Calais, France
 - Computer science master degree in 2021
