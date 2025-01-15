@@ -4,20 +4,20 @@
 
 <hr />
 
-# Who am I ?
+# Who am I?
 
 ### Work & Studies
 
-- Behind [Dysnomia](https://dysnomia.studio), the company which manages most of my projects.
-- Freelance at **Getlink**
+- Behind [Dysnomia](https://dysnomia.studio), the company that manages most of my projects.
+- Freelance at **GetLink**
 - Part-time teacher at ULCO - Calais, France
-- Computer science master degree in 2021
+- Computer science master's degree in 2021
 
 ### Techs
 
 - **Web Developer** mainly using **React** and **.NET**
 - **Game Developer**
-- Big fan of **Sonarqube** and everything around code quality and good practices
+- A big fan of **Sonarqube** and everything around code quality and good practices
 - Enthusiastic about **DevOps**, **Rust**, and many other subjects !
 
 <hr />
@@ -28,18 +28,16 @@
 
 [Manufactur'inc](https://store.steampowered.com/app/2146380/Manufactur_inc/): Lead your new company to success in this industry management game. Blueprint and optimize your production; make ethical choices to influence your worker conditions, ecological impact, automation level, and more. Will you create a simple manuFactory, a beneFactory, or a satisFactory?
 
-[Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/): Alchemistry, it's a casual puzzle game made around the craft and merge of elements.  
-It has a sandbox and a challenge mode. The first one have no goal except discovering every element the game has, the latter give you objective elements to craft with a group of base elements.
+[Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/): A casual puzzle game about merging different elements to create other ones.  
+It has a sandbox and a challenge mode. The first one has no goal except discovering every element the game has, the latter gives you objective elements to craft with a group of base elements.
 
-[Extortion](https://store.steampowered.com/app/1299430/Extortion/): You're a computer engineer with a terrible secret. Someone is blackmailing you and now, you have to hack some servers and get secret files for them. Would you success to achieve his missions or would you find him and revenge ?
+[Extortion](https://store.steampowered.com/app/1299430/Extortion/): You're a computer engineer with a terrible secret. Someone is blackmailing you and now, you have to hack some servers and get secret files for him. Would you succeed in achieving their missions or would you find them and revenge?
 
 ## Websites
 
-[Achieve.games](https://achieve.games) ([Database Dump](https://github.com/Dysnomia-Studio/achieve-games-dump)): Do you want a random game achievement, a random game, stats about how much you got achievements ? That website is here for you !
+[Achieve.games](https://achieve.games) ([Database Dump](https://github.com/Dysnomia-Studio/achieve-games-dump)): Do you want a random game achievement, a random game, stats about how much you got achievements? That website is here for you!
 
-[Dehash.me](https://dehash.me): This website was created to raise awareness on basic hashing weaknesses. This website own and generate its own dictionary about weak hashes.
-
-[Downstat.us](https://downstat.us): Check if your favorite service is up or down.
+[Dehash.me](https://dehash.me): This website was created to raise awareness of basic hashing weaknesses. This website owns and generates its own dictionary about weak hashes.
 
 ## Libraries
 
@@ -55,7 +53,7 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 ## Benchmark
 
-["Web to Desktop" framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.  
+["Web to Desktop" framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple frameworks that grant us to "transform" our web app to desktop application formats.  
 
 ## CLIs
 
@@ -63,8 +61,8 @@ It has a sandbox and a challenge mode. The first one have no goal except discove
 
 ## Game mods
 
-[EvolutionAddonPack](https://github.com/williamdefly/Evolutionaddonpack): **ARCHIVED** One of the biggest Stargate mod in any game. Based on the popular Garry's Mod addon "Carter Addon Pack" with features and entities added. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=515981131)  
+[EvolutionAddonPack](https://github.com/williamdefly/Evolutionaddonpack): **ARCHIVED** One of the biggest Stargate mods in any game. Based on the popular Garry's Mod addon "Carter Addon Pack" with features and entities added. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=515981131)  
 [Scifi-pack](https://github.com/Elanis/SciFi-Pack-Addon-Gamemode): **ARCHIVED** A Garry's Mod addon/gamemod about many science fiction universes  
-[GmodAntiSurf](https://github.com/TeamCookiePixel/GmodAntiSurf): A simple and optimized (lag-free) anti propsurf on Garry's Mod.
+[GmodAntiSurf](https://github.com/TeamCookiePixel/GmodAntiSurf): A simple and optimized (lag-free) anti-propsurf on Garry's Mod.
 
-And many others in my repositories/organizations !
+And many others in my repositories/organizations!
