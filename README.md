@@ -37,8 +37,6 @@ It has a sandbox and a challenge mode. The first one has no goal except discover
 
 [Achieve.games](https://achieve.games) ([Database Dump](https://github.com/Dysnomia-Studio/achieve-games-dump)): Do you want a random game achievement, a random game, stats about how much you got achievements? That website is here for you!
 
-[Dehash.me](https://dehash.me): This website was created to raise awareness of basic hashing weaknesses. This website owns and generates its own dictionary about weak hashes.
-
 ## Libraries
 
 [canvas2d-wrapper](https://github.com/Dysnomia-Studio/canvas2d-wrapper): A React Wrapper to use HTML5 canvas with mouse move and zoom abilities.  
@@ -55,14 +53,10 @@ It has a sandbox and a challenge mode. The first one has no goal except discover
 
 ["Web to Desktop" framework comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): This repository was made to create an objective comparison of multiple frameworks that grant us to "transform" our web app to desktop application formats.  
 
-## CLIs
-
-[domain-checker](https://github.com/Elanis/domain-checker): Check if a domain name list is available or not, and their expiration date using ip2whois  
-
 ## Game mods
 
 [EvolutionAddonPack](https://github.com/williamdefly/Evolutionaddonpack): **ARCHIVED** One of the biggest Stargate mods in any game. Based on the popular Garry's Mod addon "Carter Addon Pack" with features and entities added. [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=515981131)  
 [Scifi-pack](https://github.com/Elanis/SciFi-Pack-Addon-Gamemode): **ARCHIVED** A Garry's Mod addon/gamemod about many science fiction universes  
-[GmodAntiSurf](https://github.com/TeamCookiePixel/GmodAntiSurf): A simple and optimized (lag-free) anti-propsurf on Garry's Mod.
+[GmodAntiSurf](https://github.com/TeamCookiePixel/GmodAntiSurf): **ARCHIVED** A simple and optimized (lag-free) anti-propsurf on Garry's Mod.
 
 And many others in my repositories/organizations!
