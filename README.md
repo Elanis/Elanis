@@ -26,6 +26,9 @@
 
 ## Games
 
+### [Logistik](https://store.steampowered.com/app/3928180/Logistik/) <kbd>React</kbd> <kbd>NodeJS</kbd> <kbd>.NET</kbd> <kbd>Steam</kbd> <kbd>Itch.io</kbd>  
+A train and railway network management game!
+
 ### [Manufactur'inc](https://store.steampowered.com/app/2146380/Manufactur_inc/) <kbd>React</kbd> <kbd>NodeJS</kbd> <kbd>Socket.io</kbd> <kbd>PostgreSQL</kbd> <kbd>Steam</kbd>  
 Lead your new company to success in this industry management game. Blueprint and optimize your production; make ethical choices to influence your worker conditions, ecological impact, automation level, and more. Will you create a simple manuFactory or a beneFactory?
 
