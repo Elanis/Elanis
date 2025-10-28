@@ -52,15 +52,14 @@ An auto-generated wiki for my games using the games code and config files.
 
 ## Libraries
 
-[canvas2d-wrapper](https://github.com/Dysnomia-Studio/canvas2d-wrapper): A React Wrapper to use HTML5 canvas with mouse move and zoom abilities.  
-[Dysnomia.Common.BlizzardWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.BlizzardWebAPI): A C# library to easily get data from Blizzard Web API.  
-[Dysnomia.Common.SQL](https://github.com/Dysnomia-Studio/Dysnomia.Common.SQL): A driver agnostic Micro-ORM for .NET Core & .NET  
-[Dysnomia.Common.SteamWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.SteamWebAPI): A C# library to easily get data from Steam Web API  
+[canvas2d-wrapper](https://github.com/Dysnomia-Studio/canvas2d-wrapper) <kbd>React</kbd> A React Wrapper to use HTML5 canvas with mouse move and zoom abilities.  
+[Dysnomia.Common.BlizzardWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.BlizzardWebAPI) <kbd>.NET</kbd> A C# library to easily get data from Blizzard Web API.  
+[Dysnomia.Common.SteamWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.SteamWebAPI) <kbd>.NET</kbd> A C# library to easily get data from Steam Web API  
 
 ## GUIs
 
-[L.U.M.E.N.](https://github.com/L-U-M-E-N/lumen-desktop): A simple and modulable personal assistant built on Electron.  
-[translatool](https://github.com/Dysnomia-Studio/translatool): A cross-platform GUI to easily translate your local projects.  
+[L.U.M.E.N.](https://github.com/L-U-M-E-N/lumen-desktop) <kbd>.NET</kbd> A simple and modulable personal assistant built on Electron.  
+[translatool](https://github.com/Dysnomia-Studio/translatool) <kbd>Tauri</kbd> <kbd>Rust</kbd> A cross-platform GUI to easily translate your local projects.  
 
 ## Benchmark
 
