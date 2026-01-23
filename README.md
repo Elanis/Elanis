@@ -41,9 +41,6 @@ You're a computer engineer with a terrible secret. Someone is blackmailing you a
 
 ## Websites
 
-### [Achieve.games](https://achieve.games) ([Database Dump](https://github.com/Dysnomia-Studio/achieve-games-dump)) <kbd>.NET</kbd> <kbd>PostgreSQL</kbd> <kbd>Datamining</kbd>  
-Do you want a random game achievement, a random game, stats about how much you got achievements? That website is here for you!
-
 ### [Dysnomia's blog](https://blog.dysnomia.studio) ([Repository](https://github.com/Dysnomia-Studio/devblog)) <kbd>Astro.build</kbd>  
 A devblog about my projects
 
