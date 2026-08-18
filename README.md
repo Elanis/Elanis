@@ -6,18 +6,11 @@
 
 # Who am I?
 
-### Work & Studies
-
 - Behind [Dysnomia](https://dysnomia.studio), the company that manages most of my projects.
-- Freelance at **GetLink**
-- Part-time teacher at ULCO - Calais, France
-- Computer science master's degree in 2021
-
-### Techs
-
 - **Web Developer** mainly using **React** and **.NET**
-- **Game Developer**
-- A big fan of **Sonarqube** and everything around code quality and good practices
+- **Game Developer** since 2016, previously modder on Garry's mod since 2013
+- Computer science master's degree in 2021
+- Focusing on everything around code quality and good practices (e.g: Automated tests, Sonarqube, ...)
 - Enthusiastic about **Datamining**, **DevOps**, **Rust**, **WebGPU** and many other subjects !
 
 <hr />
