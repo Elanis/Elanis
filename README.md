@@ -1,6 +1,6 @@
 <h1 align="center">Axel "Elanis" Soupé</h1>
 
-<h3 align="center"><a href="https://elanis.eu">🗒️Portfolio</a> • <a href="https://blog.dysnomia.studio">✍Blog</a> • <a href="https://bsky.app/profile/elanis.eu">🟦 Bluesky</a> • <a href="https://mastodon.gamedev.place/@Elanis">📝Mastodon</a></h3>
+<h3 align="center"><a href="https://elanis.eu">🗒️Portfolio</a> • <a href="https://blog.dysnomia.studio">✍Dev Blog</a> • <a href="https://bsky.app/profile/elanis.eu">🟦 Bluesky</a> • <a href="https://mastodon.gamedev.place/@Elanis">📝Mastodon</a></h3>
 
 <hr />
 
@@ -46,7 +46,7 @@ An auto-generated wiki for my games using the games code and config files.
 [Dysnomia.Common.BlizzardWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.BlizzardWebAPI) <kbd>.NET</kbd> A C# library to easily get data from Blizzard Web API.  
 [Dysnomia.Common.SteamWebAPI](https://github.com/Dysnomia-Studio/Dysnomia.Common.SteamWebAPI) <kbd>.NET</kbd> A C# library to easily get data from Steam Web API  
 
-## GUIs
+## Tools
 
 [L.U.M.E.N.](https://github.com/L-U-M-E-N/lumen-desktop) <kbd>.NET</kbd> A simple and modulable personal assistant built on Electron.  
 [translatool](https://github.com/Dysnomia-Studio/translatool) <kbd>Tauri</kbd> <kbd>Rust</kbd> A cross-platform GUI to easily translate your local projects.  
